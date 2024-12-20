@@ -1,3 +1,9 @@
 td.reportTable.left.rowCell.total.dimension {
-color: transparent !important;
-}
+/*color: transparent !important;*/
+visibility:hidden
+}}
+
+td.reportTable.left.rowCell.total.dimension:after {
+visibility:visible
+content:'Average'
+}}
