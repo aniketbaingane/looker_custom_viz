@@ -4,6 +4,6 @@ visibility:hidden
 }
 
 td.reportTable.left.rowCell.total.dimension:after {
-visibility:visible
+visibility:visible;
 content:'Average'
 }
