@@ -16,6 +16,7 @@ td.reportTable.left.rowCell.total.dimension {
 td.reportTable.left.rowCell.total.dimension:after {
     visibility: visible;
     content: 'Average';
+    text-align: center;
 }
 
 
