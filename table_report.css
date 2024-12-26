@@ -9,6 +9,11 @@
     format('woff2');
 }
 
+
+iframe {
+    background-color: yellow;
+}
+
 td.reportTable.left.rowCell.total.dimension {
     visibility: hidden;
 }
